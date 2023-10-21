@@ -1,6 +1,6 @@
 # 这里存放我在参与的论文中的代码
 
-# This is where I store the code from the papers I am involved in.
+# This is where I store the code from the papers I have involved in.
 
 **持续更新 | Continuously update**
 
