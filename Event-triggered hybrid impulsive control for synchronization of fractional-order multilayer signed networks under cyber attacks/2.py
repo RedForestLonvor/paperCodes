@@ -13,7 +13,7 @@ P1 = 0.75
 P2 = 0.4
 
 # constants
-# utlis
+# utils
 
 def Max(a, b):
     if a > b:
@@ -63,7 +63,7 @@ def cofactor_matrix(L):
     return cofactor_mat
 
 
-# utlis
+# utils
 # parameter
 
 b0 = {(1, 7): 0.025, (6, 7): 0.025, (6, 12): 0.025, (12, 5): 0.025,
